@@ -7,8 +7,8 @@ const fruits1 = ["Яблоко", "Апельсин", "Слива"];
 fruits1[0]= "Мандарин";
 function test() {
   const fruits1 = ["Малина", "Клубника", "Смородина"];
-  let fruits = ["Груша", "Крыжовник", "Агрэст"];
-  fruits[0]= "Мандарин";
+  let fruits2 = ["Груша", "Крыжовник", "Агрэст"];
+  fruits2[0]= "Мандарин";
   console.log(fruits);
 }
 test();
